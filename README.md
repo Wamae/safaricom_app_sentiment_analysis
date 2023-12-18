@@ -13,7 +13,7 @@ We then store that data in a CSV and do some sentiment analysis on the reviews u
 - [WordCloud](https://github.com/amueller/word_cloud)
 - [Matplotlib](https://matplotlib.org/stable/tutorials/pyplot.html)
 - [Seaborn](https://seaborn.pydata.org/)
-- [nltk] (https://www.nltk.org/)
+- [NLTK](https://www.nltk.org/)
 
 ## Installation
 
