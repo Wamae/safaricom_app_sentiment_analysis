@@ -1,5 +1,4 @@
-# Sentiment Analysis of Safaricom Android App Reviews Part1
-
+# Sentiment Analysis of Safaricom Android App Reviews 
 ## Description
 
 This project uses the Safaricom reviews from the Google Play store using the applicationId/Package name.
