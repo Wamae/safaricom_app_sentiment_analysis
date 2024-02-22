@@ -3,6 +3,11 @@
 
 This project uses the Safaricom reviews from the Google Play store using the applicationId/Package name.
 We then store that data in a CSV and do some sentiment analysis on the reviews users.
+<img width="625" alt="Screenshot 2024-02-22 at 16 37 26" src="https://github.com/Wamae/safaricom_app_sentiment_analysis/assets/11459159/ce4016dc-5918-421a-a970-88ea98f29708">
+
+<img width="582" alt="Screenshot 2024-02-22 at 16 37 02" src="https://github.com/Wamae/safaricom_app_sentiment_analysis/assets/11459159/3fb56801-04b2-41a6-9274-781cc8bdc464">
+
+<img width="917" alt="Screenshot 2024-02-22 at 16 28 28" src="https://github.com/Wamae/safaricom_app_sentiment_analysis/assets/11459159/e5ee2c24-915d-4f20-8434-cd3bc4e00e53">
 
 
 ## Technologies used
